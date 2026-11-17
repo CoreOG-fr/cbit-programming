@@ -10,7 +10,6 @@ int main() {
         printf("Please enter rows from 1 to 20\n");
         return 0;
 
-
     }
 
     for (i = 1; i <= n; i++) {
