@@ -29,7 +29,7 @@ int main() {
 
     int pos = linearSearch(arr, n, key);
     if (pos != -1)
-        printf("%d found at %d \n", key, pos +1, pos);
+        printf("%d found at %d \n", key, pos +1);
     else
         printf("element not found", key);
     return 0;
